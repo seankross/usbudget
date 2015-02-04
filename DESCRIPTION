@@ -1,0 +1,13 @@
+Package: usbudget
+Type: Package
+Title: US Budget Data 
+Version: 0.1
+Date: 2015-02-04
+Authors@R: 'Sean Kross <smk240@gmail.com> [aut,cre]'
+Description: United States federal budget data for years since 1962 and
+  projections until 2020.
+License: CC0
+LazyData: true
+Suggests:
+  dplyr
+URL: http://github.com/seankross/usbudget
